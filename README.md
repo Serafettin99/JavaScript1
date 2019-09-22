@@ -5,6 +5,9 @@
 
 # Module #2 - JavaScript 1: Programming Basics (Frontend)
 
+
+
+
 ![JavaScript1](./assets/javascript1.png)
 
 In this module you'll make a start into wonderful world of programming. We will be using the programming language `JavaScript` to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
