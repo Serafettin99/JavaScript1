@@ -32,19 +32,19 @@ function calculateTheGrade(point) {
   } else {
     if (point < 50) {
       grade = 'F';
-    } else if (point < 60 && point >= 50) {
+    } else if (point < 60) {
       grade = 'E';
-    } else if (point < 70 && point >= 60) {
+    } else if (point < 70) {
       grade = 'D';
-    } else if (point < 80 && point >= 70) {
+    } else if (point < 80) {
       grade = 'C';
-    } else if (point < 90 && point >= 80) {
+    } else if (point < 90) {
       grade = 'B';
-    } else if (point <= 100 && point >= 90) {
+    } else if (point <= 100) {
       grade = 'A';
     }
     return `You got a ${grade} (${point}%)!`;
   }
 }
 
-console.log(calculateTheGrade(60));
+console.log(calculateTheGrade(-65));
