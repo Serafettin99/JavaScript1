@@ -1,3 +1,4 @@
+'use strict';
 // Exercise 5: Who wants a drink?
 
 // You're at a party and you feel thirsty! However, you've got 5 friends who are also in need of a drink. Let's go get them a drink.

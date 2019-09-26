@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 // Exercise 4: The reading list
 
 // Keep track of which books you read and which books you want to read!
